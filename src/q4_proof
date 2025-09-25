@@ -1,0 +1,14 @@
+void main() {
+  String name = "Alex"
+   //name = null; 
+
+  String? nickname;
+  print("Nickname: $nickname");
+
+  nickname = "Lex";
+  print("Updated Nickname: $nickname");
+
+  late String message; 
+  message = "Hello!";
+  print("Message: $message");
+}

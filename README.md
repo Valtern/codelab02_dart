@@ -26,3 +26,11 @@ NIM: 2341720067
 i.e String name = "Alex"; // cannot be null
 Late Variable: we tell Dart the variable will get a value later.
 i.e late String message; message = "Hello!";
+
+example execution (this result in an error)
+
+![alt text](image.png)
+
+Example of a correct one using ?
+
+![alt text](image-1.png)
